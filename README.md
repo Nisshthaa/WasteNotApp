@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
 # 🌳 WasteNot
@@ -174,3 +175,6 @@ Our team is proud to contribute to tackling food waste through technology. The j
 For beginners who want to learn how to build this type of application, check out our comprehensive tutorial in [TUTORIAL.md](TUTORIAL.md) that breaks down all the key concepts and implementation details.
 
 ---
+=======
+# WasteNotApp
+>>>>>>> ab55856fb0f9f7ee6c9eaeecb610133c92e45dfe
